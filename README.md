@@ -22,6 +22,8 @@ _____________________________________________
 
 
 usage:
+install mpg123
+install python
 clone the files to directory
 chmod +x webradio.sh
 ./webradio.sh
